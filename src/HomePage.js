@@ -1,9 +1,13 @@
 import React from 'react'
-// import { Parallax, ParallaxLayer } from '@react-spring/parallax'
+import Container from './Container';
 
 function Home() {
     return (
-        <div>  Abracadabra </div>
+        <Container>
+            <h2>Home Page</h2>
+            <p>This is the Home page (- -).</p>
+            {/* Include your contact form or contact details here */}
+        </Container>
     )
 }
 
