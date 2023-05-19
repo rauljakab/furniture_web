@@ -1,14 +1,14 @@
-import React from 'react';
-import './index.css';
-import Container from './Container';
+import React from 'react'
+import { Container } from 'react-bootstrap';
 
-const AboutPage = () => {
+function AboutPage() {
     return (
         <Container>
-            <h1>About Page</h1>
-            <p>This is the about page. Here, you can provide information about your company or project.</p>
+            <h2 style={{ fontFamily: 'Montserrat' }}>Home Page</h2>
+            <p>This is the About page (- -).</p>
+            {/* Include your contact form or contact details here */}
         </Container>
-    );
-};
+    )
+}
 
 export default AboutPage;

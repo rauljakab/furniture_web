@@ -1,14 +1,14 @@
 import React from 'react'
-import Container from './Container';
+import { Container } from 'react-bootstrap';
 
-function Home() {
+function HomePage() {
     return (
         <Container>
-            <h2>Home Page</h2>
+            <h2 style={{ fontFamily: 'Montserrat' }}>Home Page</h2>
             <p>This is the Home page (- -).</p>
             {/* Include your contact form or contact details here */}
         </Container>
     )
 }
 
-export default Home;
+export default HomePage;
