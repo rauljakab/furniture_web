@@ -1,5 +1,5 @@
 // import { useEffect } from 'react';
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef } from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import { useTrail, animated } from 'react-spring';
 import styled from 'styled-components';

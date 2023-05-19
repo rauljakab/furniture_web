@@ -2,14 +2,11 @@ import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import Image1 from './images/1.jpg';
 import Image2 from './images/2.jpg';
-import Image3 from './images/3.jpg';
 import ReactPlayer from 'react-player';
 import styled from 'styled-components';
 import video from './videos/video.mp4';
-import { Container } from 'react-bootstrap';
 import ParallaxContainer from './components/ParallaxContainer';
 
-const src = './videos/video.mp4';
 const text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas libero eros, venenatis quis nisl quis, dignissim dictum tellus. Maecenas blandit efficitur est, tristique dictum purus consequat non. Proin vel ultrices libero. Vivamus lobortis enim vitae sodales sollicitudin. Nam mollis et enim vel aliquam. Sed lobortis nunc ac ex dignissim consectetur."
 
 const CarouselContainer = styled(Carousel)`
