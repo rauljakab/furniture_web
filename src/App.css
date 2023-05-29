@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 .App-logo {
@@ -39,6 +40,6 @@
 }
 
 .font {
-  font-family: 'Montserrat';
+  font-family: 'Roboto', sans-serif;
 
 }
