@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/furniture_web/static/css/main.504a9f7c.css",
-    "main.js": "/furniture_web/static/js/main.6e70c964.js",
+    "main.css": "/furniture_web/static/css/main.a3b3f32c.css",
+    "main.js": "/furniture_web/static/js/main.71ce6feb.js",
     "static/js/787.7a1f30ea.chunk.js": "/furniture_web/static/js/787.7a1f30ea.chunk.js",
-    "static/media/2.jpg": "/furniture_web/static/media/2.760af916be5517963ce6.jpg",
     "static/media/video.mp4": "/furniture_web/static/media/video.032276c41f42f9d9553a.mp4",
-    "static/media/1.jpg": "/furniture_web/static/media/1.13d1524daea18ac1ec4a.jpg",
+    "static/media/11.jpg": "/furniture_web/static/media/11.132d4fdbc250e4b8deb2.jpg",
+    "static/media/4.jpg": "/furniture_web/static/media/4.aefa4b967b58a955e6e5.jpg",
+    "static/media/3.jpg": "/furniture_web/static/media/3.529059a7e0cf9598c336.jpg",
+    "static/media/up1.jpg": "/furniture_web/static/media/up1.6b1e28b17686e20eccfc.jpg",
+    "static/media/up2.jpg": "/furniture_web/static/media/up2.36d1d9aade71be96a645.jpg",
+    "static/media/2.jpg": "/furniture_web/static/media/2.4f3247d05da4ff1676a1.jpg",
+    "static/media/1.jpg": "/furniture_web/static/media/1.2122f02596997fed01d3.jpg",
+    "static/media/logoM.png": "/furniture_web/static/media/logoM.1ddd6d7e53e992f30572.png",
+    "static/media/logoBlack.png": "/furniture_web/static/media/logoBlack.7adf9714a5592375c653.png",
     "index.html": "/furniture_web/index.html",
-    "main.504a9f7c.css.map": "/furniture_web/static/css/main.504a9f7c.css.map",
-    "main.6e70c964.js.map": "/furniture_web/static/js/main.6e70c964.js.map",
+    "main.a3b3f32c.css.map": "/furniture_web/static/css/main.a3b3f32c.css.map",
+    "main.71ce6feb.js.map": "/furniture_web/static/js/main.71ce6feb.js.map",
     "787.7a1f30ea.chunk.js.map": "/furniture_web/static/js/787.7a1f30ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.504a9f7c.css",
-    "static/js/main.6e70c964.js"
+    "static/css/main.a3b3f32c.css",
+    "static/js/main.71ce6feb.js"
   ]
 }
