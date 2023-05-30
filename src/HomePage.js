@@ -127,8 +127,13 @@ function HomePage() {
             </div>
             <Container style={{ flexGrow: 1, minHeight: 'calc(100vh - 90px)', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                 <h1 style={{ fontFamily: 'Roboto', fontWeight: 700, marginBottom: '2rem' }}>Qui Sommes-Nous ?</h1>
+<<<<<<< HEAD
                 <p style={{ fontFamily: 'Roboto', textAlign: 'center' }}><b>Masmenuiserie</b> est une entreprise de menuiserie  spécialisée dans la fabrication de meubles sur mesure à dans toute l’Europe</p>
                 <h1 style={{ fontFamily: 'Roboto', fontWeight: 700, marginBottom: '1rem', marginTop: '4.5rem' }}>Nos points forts</h1>
+=======
+                <p style={{ fontFamily: 'Roboto' }}><b>Masmenuiserie</b> est une entreprise de menuiserie  spécialisée dans la fabrication de meubles sur mesure à dans toute l’Europe</p>
+                <h1 style={{ fontFamily: 'Roboto', fontWeight: 700, marginBottom: '2rem', marginTop: '4.5rem' }}>Nos points forts</h1>
+>>>>>>> 00150f41bb63b7ed75eef90a9aaf67342cb8fb3a
                 <Row className="row-cols-1 row-cols-md-3 g-4 m-0">
                     {ourStrenghts.map((card, index) => (
                         <Col>
